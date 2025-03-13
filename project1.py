@@ -1,7 +1,3 @@
-# Rishi 2023btech067
-# Shrey 2023btech077
-# Vansh 2023btech094
-
 import pandas as pd
 import osmnx as ox
 import networkx as nx
